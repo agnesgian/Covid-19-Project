@@ -16,29 +16,28 @@ A data analyst is asked to gather information on global covid-19 situation and f
    Data extracted from https://ourworldindata.org/coronavirus downloaded as excel workbook.
       
 ### 3. Process
-   Cleaning data, removing empty spaces, converting formats.
-   
+   Cleaning data, removing empty spaces, converting formats.<br />   
    Converting 'NULL' to 0 on spreadsheets to prevent errors for when making Tableau dashboard
 
 ### 4. Analyse 
-  SQL analysis
-    Find Total Cases VS Total Death
-    Find Total Cases VS Total Population
-    Find continent with highest death count per popuation
-    Find countries with highest death rates per population
-    Find countries with highest infection rate compared to population
-    Find likelihood of dying if you contracted covid in your country
-    Find what percentage of population got Covid
-    Total population VS Vaccination
+  SQL analysis<br />
+    Find Total Cases VS Total Death<br />
+    Find Total Cases VS Total Population<br />
+    Find continent with highest death count per popuation<br />
+    Find countries with highest death rates per population<br />
+    Find countries with highest infection rate compared to population<br />
+    Find likelihood of dying if you contracted covid in your country<br />
+    Find what percentage of population got Covid<br />
+    Total population VS Vaccination<br />
    
 ### 5. Share 
-  Filter down and pick relavent table to share and present using SQL.
-  Tables to create from SQL:
-    Global summary on total cases, death and death percentage
-    Total Death in every Continent    
-    Percent Population Infected for every Country    
-    Percent Population Infected per Country  
-    Export SQL queries into excel spreadsheets and import to Tableau to create data viz.
+  Filter down and pick relavent table to share and present using SQL.<br />
+  Tables to create from SQL:<br />
+    Global summary on total cases, death and death percentage<br />
+    Total Death in every Continent<br /> 
+    Percent Population Infected for every Country<br />
+    Percent Population Infected per Country<br /> 
+    Export SQL queries into excel spreadsheets and import to Tableau to create data viz.<br />
 
 ### 6. Act
   Recommend action based on current and forecasted trends.
