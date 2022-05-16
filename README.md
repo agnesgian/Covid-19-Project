@@ -32,7 +32,8 @@ A data analyst is asked to gather information on global covid-19 situation and f
    
 ### 5. Share 
   Filter down and pick relavent table to share and present using SQL.<br />
-  Tables to create from SQL:<br />
+  
+  *Tables to create from SQL:*<br />
     Global summary on total cases, death and death percentage<br />
     Total Death in every Continent<br /> 
     Percent Population Infected for every Country<br />
