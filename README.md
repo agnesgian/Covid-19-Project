@@ -40,16 +40,12 @@ A data analyst is asked to gather information on global covid-19 situation and f
     Total population VS Vaccination
    
 ### 5. Share 
-  Filter and pick relavent table to share and present using SQL
-  
+  Filter and pick relavent table to share and present using SQL.
+  Tables to create:
   Global summary on total cases, death and death percentage
-    
-  Total Death in every Continent
-    
-  Percent Population Infected for every Country
-    
-  Percent Population Infected per Country
-  
+  Total Death in every Continent    
+  Percent Population Infected for every Country    
+  Percent Population Infected per Country  
   Export SQL queries into excel spreadsheets and import to Tableau to create data viz.
 
 ### 6. Act
